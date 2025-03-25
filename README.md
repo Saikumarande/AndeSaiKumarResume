@@ -1,4 +1,3 @@
-theme: Architect
 # Ande Sai Kumar
 ## **DEVOPS ENGINEER**
 
@@ -9,7 +8,7 @@ theme: Architect
 #### **Ph. No.:** +91-9966551044
 ---
 
-**Objective**
+### **Objective**
 ---
 To leverage my 2+ years of experience as a DevOps Engineer in Azure DevOps, specializing in CI/CD 
 pipeline creation, infrastructure automation, and cloud deployment using ARM templates, to drive efficient 
@@ -17,9 +16,9 @@ and secure cloud operations. I aim to optimize workflows and enhance system perf
 within the next year through Agile methodologies, monitoring, and collaboration, contributing to the 
 success of the team and organization.
 
-**Experience**
+### **Experience**
 ---
-## Capgemini | Senior Analyst / Software Engineer 
+#### Capgemini | Senior Analyst / Software Engineer 
 **Jul 2024 – Present**
 - Developed the InfraEngine project using ARM templates and scripts to provision resources to Azure Cloud.
 - Created and managed DevOps YAML-based multistage pipelines for CI/CD, improving pipeline efficiency by 25%.
