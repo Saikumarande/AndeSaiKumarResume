@@ -6,15 +6,10 @@
 **Email Id:** andesaikumar50@gmail.com
 
 #### **Ph. No.:** +91-9966551044
+---
 
----
-***
----
 
 ### **Objective**
-
----
-***
 ---
 To leverage my 2+ years of experience as a DevOps Engineer in Azure DevOps, specializing in CI/CD 
 pipeline creation, infrastructure automation, and cloud deployment using ARM templates, to drive efficient 
@@ -23,9 +18,6 @@ within the next year through Agile methodologies, monitoring, and collaboration,
 success of the team and organization.
 
 ### **Experience**
-
----
-***
 ---
 #### Capgemini | Senior Analyst / Software Engineer 
 **Jul 2024 – Present**
