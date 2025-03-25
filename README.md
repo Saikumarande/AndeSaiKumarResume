@@ -34,6 +34,59 @@ success of the team and organization.
 - Coordinated with the release manager to maintain version control and added relevant links to runbooks, simplifying the deployment process, reducing release cycle time by 20%.
 - Actively participated in sprint planning, stand-ups, and retrospective meetings.
 
+#### Capgemini | Analyst / Software Engineer
+**Dec 2022 – Jul 2024**
 
+- Managed code with version control tools like Git.
+- Automated tasks using PowerShell scripts.
+- Participated in sprint planning, stand-ups, and retrospective meetings.
+- Completed training sessions to build expertise in Azure DevOps, ARM templates, and Jenkins, contributing to a 20% increase in team skills.
+- Engaged with senior team members and stakeholders to build strong communication and collaboration skills.
+- Supported the team by automating everyday tasks using simple scripts.
+- Contributed to troubleshooting build and deployment issues under guidance.
+- Created and maintained project documentation.
+- Completed various training sessions to build expertise in tools like Azure DevOps, ARM templates, and Jenkins.
 
+### Education
+---
+**JNTUK University, Bachelor of Technology**  
+**2022**  
+Domain: Electronics and Communication Engineering
+
+### Skills & Abilities
+---
+- **Programming Languages:** Java, Groovy
+- **Development:** CI/CD, Jenkins, Docker, Azure DevOps, Microsoft Azure
+- **Version Control:** Azure Repo’s, GitHub, GIT
+- **Scripting and Automation:** PowerShell, ARM/Bicep Templates, YAML, Azure CLI commands
+- **Knowledge Management Tools:** Azure Wiki, Confluence pages
+- **Work Monitoring Tools:** Jira, Azure DevOps Workboards
+- **Security:** Azure Key Vault, IAM (Identity and Access Management)
+
+### Key Achievements
+---
+- **Pipeline Optimization:** Improved CI/CD efficiency by 25% through optimizing Azure pipelines.
+- **Automation:** Automated five daily tasks using PowerShell, saving 10 hours weekly.
+- **Enhanced Monitoring:** Implemented an alert system, reducing resource downtime and increasing availability.
+- **DevOps Training:** Organized internal training sessions to enhance team skills in Azure DevOps and Microsoft concepts.
+- **Security Management:** Enhanced code security by implementing branch policies and managing permissions in Azure Repos.
+
+### Certifications
+---
+- **Microsoft Certified: Azure Administrator Associate (AZ-104).** View Certification
+- **Google Cloud Certified: Associate Cloud Engineer.** View Certification
+- **AWS: Certified Cloud Practitioner.** View Certification
+
+### Publications
+---
+- **Creating Azure Resource Manager Service Connections both Automatic and Manual in Azure DevOps:** Link to Article
+- **Azure App Services: Access Restrictions:** Link to Article
+- **Understanding Identity and Access Management (IAM) for DevOps Professionals:** Link to Article
+- **Securely Connect Azure Web Apps to Application Insights with Microsoft Entra Authentication:** Link to Article
+- **Additional articles published on Medium.** View More
+
+### Strengths
+---
+- **Communication:** Open-minded, outgoing, and patient in conversations with others.
+- **Flexibility/Organizational Skills:** Successfully managed to earn certifications while working full-time.
 
