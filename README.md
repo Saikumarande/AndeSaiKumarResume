@@ -1,4 +1,4 @@
-theme: minima
+theme: Architect
 # Ande Sai Kumar
 ## **DEVOPS ENGINEER**
 
