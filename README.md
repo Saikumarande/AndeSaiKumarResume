@@ -17,6 +17,7 @@ and secure cloud operations. I aim to optimize workflows and enhance system perf
 within the next year through Agile methodologies, monitoring, and collaboration, contributing to the 
 success of the team and organization.
 
+
 ### **Experience**
 ---
 #### Capgemini | Senior Analyst / Software Engineer 
@@ -47,11 +48,13 @@ success of the team and organization.
 - Created and maintained project documentation.
 - Completed various training sessions to build expertise in tools like Azure DevOps, ARM templates, and Jenkins.
 
+
 ### Education
 ---
 **JNTUK University, Bachelor of Technology**  
 **2022**  
 Domain: Electronics and Communication Engineering
+
 
 ### Skills & Abilities
 ---
@@ -63,6 +66,7 @@ Domain: Electronics and Communication Engineering
 - **Work Monitoring Tools:** Jira, Azure DevOps Workboards
 - **Security:** Azure Key Vault, IAM (Identity and Access Management)
 
+
 ### Key Achievements
 ---
 - **Pipeline Optimization:** Improved CI/CD efficiency by 25% through optimizing Azure pipelines.
@@ -71,11 +75,13 @@ Domain: Electronics and Communication Engineering
 - **DevOps Training:** Organized internal training sessions to enhance team skills in Azure DevOps and Microsoft concepts.
 - **Security Management:** Enhanced code security by implementing branch policies and managing permissions in Azure Repos.
 
+
 ### Certifications
 ---
 - **Microsoft Certified: Azure Administrator Associate (AZ-104).** View Certification
 - **Google Cloud Certified: Associate Cloud Engineer.** View Certification
 - **AWS: Certified Cloud Practitioner.** View Certification
+
 
 ### Publications
 ---
@@ -84,6 +90,7 @@ Domain: Electronics and Communication Engineering
 - **Understanding Identity and Access Management (IAM) for DevOps Professionals:** Link to Article
 - **Securely Connect Azure Web Apps to Application Insights with Microsoft Entra Authentication:** Link to Article
 - **Additional articles published on Medium.** View More
+
 
 ### Strengths
 ---
