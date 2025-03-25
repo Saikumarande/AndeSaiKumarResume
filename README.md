@@ -3,7 +3,7 @@
 
 **LinkedIn:** [www.linkedin.com/in/ande-sai-kumar](www.linkedin.com/in/ande-sai-kumar)
 
-**Email Id:** andesaikumar50@gmail.com
+**Email Id:** [andesaikumar50@gmail.com](andesaikumar50@gmail.com)
 
 **Ph. No.:** +91-9966551044
 ---
