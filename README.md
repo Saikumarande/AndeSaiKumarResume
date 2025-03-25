@@ -78,18 +78,19 @@ Domain: Electronics and Communication Engineering
 
 ### Certifications
 ---
-- **Microsoft Certified: Azure Administrator Associate (AZ-104).** View Certification
-- **Google Cloud Certified: Associate Cloud Engineer.** View Certification
-- **AWS: Certified Cloud Practitioner.** View Certification
+- **Microsoft Certified: Azure Administrator Associate (AZ-104).** 
+- **Google Cloud Certified: Associate Cloud Engineer.** 
+- **AWS: Certified Cloud Practitioner.** 
 
 
 ### Publications
 ---
-- **Creating Azure Resource Manager Service Connections both Automatic and Manual in Azure DevOps:** Link to Article
-- **Azure App Services: Access Restrictions:** Link to Article
-- **Understanding Identity and Access Management (IAM) for DevOps Professionals:** Link to Article
-- **Securely Connect Azure Web Apps to Application Insights with Microsoft Entra Authentication:** Link to Article
-- **Additional articles published on Medium.** View More
+- **Creating Azure Resource Manager Service Connections both Automatic and Manual in Azure DevOps:** 
+- **Azure App Services: Access Restrictions:** 
+- **Understanding Identity and Access Management (IAM) for DevOps Professionals:** 
+- **Securely Connect Azure Web Apps to Application Insights with Microsoft Entra Authentication:** 
+- **Additional articles published on Medium.**
+- **Medium Link:** https://medium.com/@andesaikumar
 
 
 ### Strengths
