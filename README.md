@@ -73,25 +73,25 @@ An accomplished and result-oriented professional with 2.5 years of experience in
 ## 🏅 Certifications & Awards
 
 ### Certifications
-- AZ-104 Microsoft Certified Azure Administrator Associate. View Certification
-- AI-900 Microsoft Certified: Azure AI Fundamentals. View Certification
-- GenAI: Generative AI Fundamentals. View Certification
-- AWS: Certified Cloud Practitioner. View Certification
+- AZ-104 Microsoft Certified Azure Administrator Associate. [View Certification](https://learn.microsoft.com/en-us/users/andesaikumar-1099/credentials/a2e2c690ea6d990a)
+- AI-900 Microsoft Certified: Azure AI Fundamentals. [View Certification](https://github.com/Saikumarande/Capgemini/blob/main/Generative%20AI.md)
+- GenAI: Generative AI Fundamentals. [View Certification](https://github.com/Saikumarande/Capgemini/blob/main/Generative%20AI.md)
+- AWS: Certified Cloud Practitioner. [View Certification](https://www.credly.com/badges/baef7dd6-93fb-44df-8bd6-0c940708fc62/public_url)
 
 ### Awards
-- Raising Star - Received for doing multiple POCs and getting good feedback, appreciation from engagements. View Certification
-- Aspiring Architect (L0) – Capgemini: Successfully certified by Capgemini’s Global Certification Board for demonstrating foundational architectural thinking and technical leadership as part of the Architect Career Path. View Certification
+- Raising Star - Received for doing multiple POCs and getting good feedback, appreciation from engagements. [View Certification](https://github.com/Saikumarande/Capgemini/blob/main/Raising%20Star.md)
+- Aspiring Architect (L0) – Capgemini: Successfully certified by Capgemini’s Global Certification Board for demonstrating foundational architectural thinking and technical leadership as part of the Architect Career Path. [View Certification](https://github.com/Saikumarande/Capgemini/blob/main/Raising%20Star.md)
 
 ---
 
 ## 📝 Publications
 
-- Creating Azure Resource Manager Service Connections both Automatic and Manual in Azure DevOps: Link to Article
-- Securely Connect Azure Web Apps to Application Insights with Microsoft Entra Authentication: Link to Article
-- Secure Your Azure SQL Server and Database with Comprehensive Auditing Techniques: Link to Article
-- Understanding Identity and Access Management (IAM) for DevOps Professionals: Link to Article
-- Azure App Services: Azure Web app Access Restrictions: Link to Article
-- Additional articles published on Medium. View More
+- Creating Azure Resource Manager Service Connections both Automatic and Manual in Azure DevOps: [Link to Article](https://medium.com/@andesaikumar/azure-devops-step-by-step-guide-to-creating-azure-resource-manager-service-connections-both-fa030fcfdcb9)
+- Securely Connect Azure Web Apps to Application Insights with Microsoft Entra Authentication: [Link to Article](https://medium.com/@andesaikumar/secure-your-azure-sql-server-and-database-with-comprehensive-auditing-techniques-50ef412accfd)
+- Secure Your Azure SQL Server and Database with Comprehensive Auditing Techniques: [Link to Article](https://medium.com/@andesaikumar/secure-your-azure-sql-server-and-database-with-comprehensive-auditing-techniques-50ef412accfd)
+- Understanding Identity and Access Management (IAM) for DevOps Professionals: [Link to Article](https://medium.com/@andesaikumar/understanding-identity-and-access-management-iam-for-devops-professionals-5cb6495f5968)
+- Azure App Services: Azure Web app Access Restrictions: [Link to Article](https://medium.com/@andesaikumar/azure-app-services-access-restrictions-a3dc452fd909)
+- Additional articles published on Medium. [View More](https://medium.com/@andesaikumar)
 
 ---
 
