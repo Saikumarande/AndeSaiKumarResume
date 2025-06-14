@@ -9,7 +9,7 @@
 ---
 
 ## 🧾 Professional Summary
-An accomplished and result-oriented professional with 2.5 years of experience in IT Industry, as a DevOps Engineer with hands-on experience supporting, Automating, and optimizing mission critical deployments in production server & cloud. Building, Deploying, Source code management, Security Management, leveraging configuration management, CI/CD, and DevOps processes.
+An accomplished and result-oriented professional with 2.7 years of experience in IT Industry, as a DevOps Engineer with hands-on experience supporting, Automating, and optimizing mission critical deployments in production server & cloud. Building, Deploying, Source code management, Security Management, leveraging configuration management, CI/CD, and DevOps processes.
 
 ---
 
